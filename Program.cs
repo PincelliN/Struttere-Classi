@@ -18,25 +18,22 @@
         static void Main(string[] args)
         {
             MyClass a = new MyClass { myString = "Mario", myInteger = 20 };
-            Console.WriteLine(a);
+            Console.WriteLine($" Prima {a.myInteger} {a.myString}");
             MyStruct b = new MyStruct { myString = "Luigi", myInteger = 30 };
-            Console.WriteLine(b);
+            Console.WriteLine($" Prima {b.myInteger} {b.myString}");
+
             ClassMethod(a, b, 10, "Bello");
 
+            Console.WriteLine($" Dopo {a.myInteger} {a.myString}");
+            // i valori al di fuori del metodo  nell struct tornano i valori di partenza           
+            Console.WriteLine($" Dopo {b.myInteger} {b.myString}");
         }
         static void ClassMethod(MyClass a, MyStruct b, int x, string y)
         {
-
             a.myInteger = x;
-            Console.WriteLine(a);
-            b.myInteger = x;
-            Console.WriteLine(b);
             a.myString = y;
-            Console.WriteLine(a);
+            b.myInteger = x;
             b.myString = y;
-            Console.WriteLine(b);
-
-
         }
     }
 }

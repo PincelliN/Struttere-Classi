@@ -1,0 +1,15 @@
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\bin\Debug\net8.0\Struttere-Classi.exe
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\bin\Debug\net8.0\Struttere-Classi.deps.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\bin\Debug\net8.0\Struttere-Classi.runtimeconfig.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\bin\Debug\net8.0\Struttere-Classi.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\bin\Debug\net8.0\Struttere-Classi.pdb
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\obj\Debug\net8.0\Struttere-Classi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\obj\Debug\net8.0\Struttere-Classi.AssemblyInfoInputs.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\obj\Debug\net8.0\Struttere-Classi.AssemblyInfo.cs
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\obj\Debug\net8.0\Struttere-Classi.csproj.CoreCompileInputs.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\obj\Debug\net8.0\Struttere-Classi.sourcelink.json
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\obj\Debug\net8.0\Struttere-Classi.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\obj\Debug\net8.0\refint\Struttere-Classi.dll
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\obj\Debug\net8.0\Struttere-Classi.pdb
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\obj\Debug\net8.0\Struttere-Classi.genruntimeconfig.cache
+C:\Users\Marik.DESKTOP-RC2L6B1\Documents\csharp\Struttere-Classi\obj\Debug\net8.0\ref\Struttere-Classi.dll
